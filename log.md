@@ -3,6 +3,7 @@
 ### Day 1: October 20, 2020
 
 **Today's Progress**: Planned everything for the next 100 days. Reinstalled jdk and android studio. Started watching videos.
+                    **01 'What Does The Course Cover' & other basic stuffs.
 
 **Thoughts:** I wanted to learn this from a long time. But, never started seriously. I will mainly follow 'The Complete Android Oreo Developer Course' [Udemy Course] for this. [https://www.udemy.com/course/the-complete-android-oreo-developer-course/]
 
